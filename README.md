@@ -7,6 +7,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 
      
      1.DISEÑO DEL PROYECTO:
+     
        1.1 Objetivo
        1.2 Palancas
        1.3 KPIs
@@ -15,6 +16,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
     
     
     2.ANÁLISIS INICIAL DE FICHERON Y PREPARACIÓN DEL CASO:
+    
       2.1 SetUp
       2.2 Entender los ficheros
         2.2.1 Cargar y entender los ficheros
@@ -22,6 +24,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
       2.5 Creación de una BBDD
 
     3.CREACIÓN DE DATAMART ANALÍTICO:
+    
       3.1 SetUp
       3.2 Importación de datos (datos internos y externos)
       3.3 Calidad de datos
@@ -34,6 +37,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
         3.4.1 Cruzar tablas apartir de Identificador Clave
 
     4.PREPARACIÓN DE DATOS:
+    
       4.1 SetUp
       4.2 Carga de datos
       4.3 Preparación de las Variables
@@ -42,6 +46,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
         4.3.3 Creación de variables con datos externos
 
     5.ANÁLISIS E INSIGHTS:
+    
       5.1 SetUp
       5.2 Carga de datos 
       5.3 Análisis:
@@ -57,6 +62,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 
 	     
     1.DISEÑO DEL PROYECTO:
+    
      1.1 Objetivo
      1.2 Palancas
      1.3 KPIs
@@ -64,6 +70,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
      1.5 Preguntas Semilla
 
     2.CALIDAD DE DATOS Y CREACIÓN DATAMART ANALITICO:
+    
     2.1 SetUp:
     2.2 Carga de datos:
       2.2.1 Carga de datos PLANTA1 - DATOS DE GENERACIÓN
@@ -84,6 +91,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 
 
     3. TRANSFORMACIÓN DE DATOS:
+    
      3.1 SetUp
      3.2 Carga de datos
      3.3 Creación de Variables
@@ -91,6 +99,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
      3.5 DataFrame Diario
 
     4. ANÁLISIS E INSIGHTS:
+    
      4.1 SetUp:
      4.2 Carga de datos:
      4.3 Análisis e Insights:
@@ -109,6 +118,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 
 
     1.DISEÑO DEL PROYECTO:
+    
      1.1 Objetivo
      1.2 Palancas
      1.3 KPIs
@@ -116,6 +126,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
      1.5 Preguntas Semilla
 
     2. CALIDAD DE DATOS Y CREACIÓN DE DATAMART ANALÍTICO:
+    
      2.1 SetUp
      2.2 Carga de datos
      2.3 Integración de datos
@@ -133,6 +144,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
      2.6 Tablón Analítico Final
 
     3. ANÁLISIS E INSIGHTS:
+    
     	3.1 Entendiendo los EVENTOS:
   	    3.1.1 Cómo esta funcionando el Customer Journey?
   	    3.1.2 Cuantos productos se ven,se añaden al carrito,se abandonan y se compran de media en cada sesión??
@@ -161,7 +173,9 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
   		    3.3.7.3 SELECCIONAR LA MÉTRICA DE DISTANCIA:
   		    3.3.7.4 CALCULAR LA MATRIZ ITEM-ITEM:
   		    3.3.7.5 CREAR LA LÓGICA DE PRIORIZACIÓN:
+	
     4. CONCLUSIONES:
+    
 	4.1 BASELINE:
         4.2 Acciones de incremento de visualizaciones:
         4.3 Acciones de incremento de conversión:
