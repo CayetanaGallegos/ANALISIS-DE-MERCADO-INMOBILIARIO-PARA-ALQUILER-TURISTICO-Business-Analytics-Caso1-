@@ -116,53 +116,53 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
      1.5 Preguntas Semilla
 
     2. CALIDAD DE DATOS Y CREACIÓN DE DATAMART ANALÍTICO:
-     2.1 SET UP:
-    2.2 CARGA DE DATOS:
-    2.3 INTEGRACIÓN DATOS:
-    2.4 CALIDAD DE DATOS:
-    	2.4.1 TIPOS DE LAS VARIABLES:
-  	  2.4.2NOMBRES DE LAS VARIABLES:
-  	  2.4.3 ANÁLISIS DE NULOS:
-  	  2.4.4 ANÁLISIS DE LAS VARIABLES NUMÉRICAS:
-  	  2.4.5 ANÁLISIS DE VARIABLES CATEGÓRICAS:
-  	  2.4.6 INDICE:
-    2.5 TRANSFORMACIÓN DE DATOS:
-  	  2.5.1 COMPONENTES DE LA FECHA:
-  	  2.5.2 VARIABLES DE CALENDARIO: FESTIVOS
-  	  2.5.3 INDICADORES EXÓGENOS:
-    2.6 TABLÓN ANALÍTICO FINAL:
+     2.1 SetUp
+     2.2 Carga de datos
+     2.3 Integración de datos
+     2.4 Calidad de datos
+    	2.4.1 Tipos de las Variables
+  	2.4.2 Nombres de las Variables
+  	2.4.3 Análisis de Nuls
+  	2.4.4 Análisis de las Variables Numéricas
+  	2.4.5 Análisis de las Variables Categóricas
+  	2.4.6 Índice
+     2.5 Transformación de datos
+  	2.5.1 Componentes de la Fecha
+  	2.5.2 Variables de Calendario: Festivos
+  	2.5.3 Indicadores Exógenos
+     2.6 Tablón Analítico Final
 
     3. ANÁLISIS E INSIGHTS:
-       3.1 ENTENDIENDO LOS EVENTOS:
-  	    3.1.1 COMO ESTA FUNCIONANDO EL CUSTOMER JOURNEY?
-  	    3.2.1 CUANTOS PRODUCTOS SE VEN,SE AÑADEN AL CARRITO,SE ABANDONAN Y SE COMPRAN DE MEDIA EN CADA SESIÓN??
-      	3.1.3 EXISTEN DIFERENCIAS ENTRE LOS EVENTOS POR HORAS??
-  	    3.1.4 CUAL ES LA MEDIA DE FACTURACIÓN MENSUAL??
-  	    3.1.5 CUAL ES LA TENDENCIA EN LOS ÚLTIMOS MESES??
-      	3.1.6 MOMENTOS DE LA VERDAD ??
-      3.2 ENTENDIENDO A LOS CLIENTES:
-  	    3.2.1 COMO SE DISTRIBUYEN LOS CLIENTES EN CUANTO A GASTO??
-  	    3.2.2 COMO SE DISTRIBUYEN LOS CLIENTES EN CUANTO AL NÚMERO DE COMPRAS??
-  	    3.2.3 CUANTOS PRODUCTOS COMPRA UN CLIENTE DE MEDIA EN CADA COMPRA??
-  	    3.2.4 QUE CLIENTES NOS HAN GENERADO MAS INGRESOS??
-      	3.2.5 CUAL ES LA SUPERVIVENCIA DE LOS CLIENTES??
-  	    3.2.6 CUAL ES EL LTV (LifeTimeValue) DE LOS CLIENTES??
-  	    3.2.7 SOBRE QUE CLIENTES EJECUTAR LAS PRÓXIMAS CAMPAÑAS RFM??
-      3.3 ENTENDIENDO LOS PRODUCTOS:
-  	    3.3.1 CUALES SON LOS PRODUCTOS MAS VENDIDOS??
-  	    3.3.2 HAY PRODUCTOS QUE NO SE VENDEN Y PODRIAMOS ELIMINARLOS DEL CATALOGO??
-  	    3.3.3 CUAL ES LA RELACIÓN ENTRE PRECIO Y VOLUMEN DE VENTAS??
-  	    3.3.4 HAY PRODUCTOS DE LOS QUE LOS CLIENTES SE ARREPIENTAN Y ELIMINEN MAS DEL CARRITO??
-  	    3.3.5 CUALES SON LOS PRODUCTOS MA VISTOS?
-  	    3.3.6 HAY PRODUCTOS DESEADOS PERO NO COMPRADOS??
-  	    3.3.7 CONSTRUYENDO UN SISTEMA DE RECOMENDACIÓN:
+    	3.1 Entendiendo los EVENTOS:
+  	    3.1.1 Cómo esta funcionando el Customer Journey?
+  	    3.1.2 Cuantos productos se ven,se añaden al carrito,se abandonan y se compran de media en cada sesión??
+      	    3.1.3 Existen diferencias entre los eventos por horas??
+  	    3.1.4 Cual es la media de facturación mensual??
+  	    3.1.5 Cual es la tendencia en los últimos meses??
+      	    3.1.6 Momentos de la verdad ??
+      	3.2 Entendiendo los CLIENTES:
+  	    3.2.1 Cómo se distribuyen los clientes en cuanto al gasto??
+  	    3.2.2 Cómo se distribuyen los clientes en cuanto al número de compras??
+  	    3.2.3 Cuantos productps compra un cliente de media en cada copra??
+  	    3.2.4 Qué clientes generaron mas ingresos??
+      	    3.2.5 Cual es la supervivivencia de los clientes??
+  	    3.2.6 Cual es el LTV (LifeTimeValue) de los clientes??
+  	    3.2.7 Sobre que clientes ejecutar las prósimas campañas RFM??
+      	3.3 Entendiendo los PRODUCTOS:
+  	    3.3.1 Cuales son los productos mas vendidos??
+  	    3.3.2 Hay productos que no se venden y podriamos eliminarlos del catálogo??
+  	    3.3.3 Cual es la relación entre precio y volumen de ventas??
+  	    3.3.4 Hay productos que los clientes se arrepienten y eliminan más del carrito??
+  	    3.3.5 Cuales son los productos mas vistos??
+  	    3.3.6 Hay productos deseados pero no comprados??
+  	    3.3.7 Construyendo un  SISTEMA DE RECOMENDACIÓN:
   		    3.3.7.1 CREAR DATAFRAME CON KPIs DE INTERÉS:
   		    3.3.7.2 REDUCIR LA DIMENSIÓN (OPCIONAL):
   		    3.3.7.3 SELECCIONAR LA MÉTRICA DE DISTANCIA:
   		    3.3.7.4 CALCULAR LA MATRIZ ITEM-ITEM:
   		    3.3.7.5 CREAR LA LÓGICA DE PRIORIZACIÓN:
     4. CONCLUSIONES:
-      4.1 BASELINE:
+	4.1 BASELINE:
         4.2 Acciones de incremento de visualizaciones:
         4.3 Acciones de incremento de conversión:
         4.4 Acciones de incremento de venta cruzada:
