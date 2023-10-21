@@ -109,7 +109,7 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
        4.3.4 Amabas plantas son igual de capaces de generar DC a partir de la Irrdiación??
        4.3.5 La generación es constante a lo largo de los días??
        4.3.6 La conversión de DC a AC se genera correctamente??
-     4.4 Cconclusiones
+     4.4 Conclusiones
 
 
 
@@ -118,12 +118,13 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 
 
     1.DISEÑO DEL PROYECTO:
+     
+       1.1 Objetivo
+       1.2 Palancas
+       1.3 KPIs
+       1.4 Entidades y Datos
+       1.5 Preguntas Semilla
     
-  	1.1 Objetivo
-     	1.2 Palancas
-     	1.3 KPIs
-     	1.4 Entidades y Datos
-     	1.5 Preguntas Semilla
 
     2. CALIDAD DE DATOS Y CREACIÓN DE DATAMART ANALÍTICO:
     
@@ -131,9 +132,9 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
 	2.2 Carga de datos
      	2.3 Integración de datos
      	2.4 Calidad de datos
-    		2.4.1 Tipos de las Variables
+		2.4.1 Tipos de las Variables
   		2.4.2 Nombres de las Variables
-  		2.4.3 Análisis de Nuls
+  		2.4.3 Análisis de Nulos
   		2.4.4 Análisis de las Variables Numéricas
   		2.4.5 Análisis de las Variables Categóricas
   		2.4.6 Índice
@@ -147,13 +148,16 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
     3. ANÁLISIS E INSIGHTS:
     
 	3.1 Entendiendo los EVENTOS:
+ 
   		3.1.1 Cómo esta funcionando el Customer Journey?
   		3.1.2 Cuantos productos se ven,se añaden al carrito,se abandonan y se compran de media en cada sesión??
       	    	3.1.3 Existen diferencias entre los eventos por horas??
   	    	3.1.4 Cual es la media de facturación mensual??
   	    	3.1.5 Cual es la tendencia en los últimos meses??
       	    	3.1.6 Momentos de la verdad ??
+	    
       	3.2 Entendiendo los CLIENTES:
+       
   		3.2.1 Cómo se distribuyen los clientes en cuanto al gasto??
   	   	3.2.2 Cómo se distribuyen los clientes en cuanto al número de compras??
   		3.2.3 Cuantos productps compra un cliente de media en cada copra??
@@ -161,7 +165,9 @@ CASO 1 : ANÁLISIS DE MERCADO INMOBILIARIO PARA ALQUILER TURÍSTICO
       	    	3.2.5 Cual es la supervivivencia de los clientes??
   	    	3.2.6 Cual es el LTV (LifeTimeValue) de los clientes??
 	  	3.2.7 Sobre que clientes ejecutar las prósimas campañas RFM??
+    
 	3.3 Entendiendo los PRODUCTOS:
+ 
   	    	3.3.1 Cuales son los productos mas vendidos??
   	    	3.3.2 Hay productos que no se venden y podriamos eliminarlos del catálogo??
   	    	3.3.3 Cual es la relación entre precio y volumen de ventas??
